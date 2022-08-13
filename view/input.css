@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gap-2{
+    gap: 0.5rem;
+}
+.top-2{
+    top: 0.5rem;
+}
